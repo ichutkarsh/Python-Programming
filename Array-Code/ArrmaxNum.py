@@ -1,5 +1,5 @@
 
-# Array program for sum of an array items
+# Array for finding max number in a array/list
 num = list(map(int,input("enter your input for array--> ").split()))
 
 max = 1
