@@ -1,3 +1,5 @@
+# Array Sum
+
 num = list(map(int,input().split()))
 
 sum = 0
