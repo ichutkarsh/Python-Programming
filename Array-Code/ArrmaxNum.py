@@ -1,3 +1,5 @@
+
+# Array program for sum of an array items
 num = list(map(int,input("enter your input for array--> ").split()))
 
 max = 1
